@@ -25,3 +25,7 @@ Principais Recursos:
 
 Projeto desenvolvido em Linguagem C++.
 
+![image info](Fotos/IMG_7552.jpg)
+![image info](Fotos/IMG_7553.jpg)
+![image info](Fotos/IMG_7554.jpg)
+![image info](Fotos/IMG_7556.jpg)
